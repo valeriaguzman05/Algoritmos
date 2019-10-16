@@ -1,0 +1,17 @@
+INICIO 
+
+LEER  precioSal
+
+LEER precioAzucar 
+
+LEER precioCereal
+
+LEER precioArroz 
+
+LEER precioHelado
+
+precioSuper= precioSal + precioAzucar + precioCereal + precioArroz + precioHelado 
+
+escribe precioSuper
+
+FIN

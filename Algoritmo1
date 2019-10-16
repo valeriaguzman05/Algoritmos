@@ -1,0 +1,22 @@
+INICIO 
+
+LEER cantidadAhorro 
+LEER sueldoPorHora 
+
+horasDeTrabajo = cantidadAhorro/sueldoPorHora
+
+ESCRIBE horasDeTrabajo
+
+FIN             
+
+INICIO
+
+cantidadAhorro= 5000
+sueldoPorHora= 500 
+
+horasDeTrabajo = 5000/500
+
+ESCRIBE horasDeTrabajo
+
+FIN 
+

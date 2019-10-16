@@ -1,0 +1,17 @@
+INICIO 
+
+LEER dineroJuan
+
+LEER dineroPedro 
+
+LEER herencia 
+
+dineroJuanYPedro= dineroInicioJuan + dineroInicioPedro
+dineroJuan= dineroInicioJuan+ (herencia/individuos)
+dineroPedro= dineroInicioPedro+ (herencia/individuos)
+
+Escribe dineroJuanYPedro 
+Escribe dineroJuan
+Escribe dineroPedro
+
+FIN 

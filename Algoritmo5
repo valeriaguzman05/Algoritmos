@@ -1,0 +1,10 @@
+INICIO 
+
+LEER valorMemefy 
+iva= 16%
+
+partePorSocio= (valorMemefy/2)- (valorMemefy*iva)
+
+ESCRIBE partePorSocio
+
+FIN 

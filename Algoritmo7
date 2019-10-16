@@ -1,0 +1,22 @@
+INICIO 
+
+LEER totalCuenta
+
+LEER numeroDeAmigos
+
+cuantoPagaCadaQuien= (totalCuenta/numeroDeAmigos)*1.10
+
+FIN 
+
+
+INICIO
+
+LEER totalCuenta
+
+LEER numeroDeAmigos
+
+LEER propina= .10
+
+cuantoPagaCadaQuien= (totalCuenta/numeroDeAmigos)+((totalCuenta/numeroDeAmigos)*propina)
+
+FIN

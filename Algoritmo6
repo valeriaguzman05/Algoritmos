@@ -1,0 +1,11 @@
+INICIO
+
+LEER ValorCompu
+
+iva= 16%
+
+totalCompuDiego= ValorCompu + (iva*ValorCompu) 
+
+Escribe TotalcompuDiego 
+
+FIN 
